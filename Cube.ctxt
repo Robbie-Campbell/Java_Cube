@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Cube
+comment0.text=\r\n\ This\ Class\ allows\ us\ to\ represent\ Cube\ objects\ in\ software.\r\n\ For\ the\ purpose\ of\ this\ Class,\ a\ Cube\ has\ features\ relating\ to\r\n\ it's\ width,\ height\ and\ depth.\r\n\ \r\n\ Author\:\ Robert\ Stanley\r\n\ Date\:\ 26/02/2020\r\n\ \r\n
+comment1.params=
+comment1.target=Cube()
+comment2.params=widthIn\ heightIn\ depthIn
+comment2.target=Cube(double,\ double,\ double)
+comment3.params=widthIn
+comment3.target=void\ setWidth(double)
+comment4.params=heightIn
+comment4.target=void\ setHeight(double)
+comment5.params=depthIn
+comment5.target=void\ setDepth(double)
+comment6.params=
+comment6.target=double\ getWidth()
+comment7.params=
+comment7.target=double\ getHeight()
+comment8.params=
+comment8.target=double\ getDepth()
+comment9.params=
+comment9.target=double\ area()
+numComments=10
